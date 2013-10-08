@@ -350,7 +350,7 @@ not	RB
 fond	VB
 of	IN
 the	DT
-Google	NN
+Google	NNP
 -	HYPH
 hates	NNS
 -	HYPH
@@ -2032,7 +2032,7 @@ CIA	NNP
 The	DT
 Briggs	NNP
 Declaration	NNP
-states	VBZ
+states	NNS
 that	IN
 with	IN
 one	CD
@@ -3182,7 +3182,7 @@ is	VBZ
 Aerocom	JJ
 ,	,
 and	CC
-yes	RB
+yes	UH
 ,	,
 it	PRP
 's	VBZ
@@ -3944,8 +3944,8 @@ in	IN
 recent	JJ
 years	NNS
 ...	:
-[	CC
-because	RB
+[	CD
+because	IN
 of	IN
 ]	IN
 the	DT
@@ -4506,7 +4506,7 @@ what	WDT
 adults	NNS
 do	VBP
 to	IN
-one	PRP
+one	CD
 another	DT
 as	RB
 long	JJ
@@ -5566,7 +5566,7 @@ is	VBZ
 Aerocom	JJ
 ,	,
 and	CC
-yes	RB
+yes	UH
 ,	,
 it	PRP
 's	VBZ
@@ -5976,9 +5976,9 @@ evil	NN
 is	VBZ
 gloomy	JJ
 ,	,
-monotonous	NNS
+monotonous	UH
 ,	,
-barren	JJ
+barren	UH
 ,	,
 boring	JJ
 .	.
@@ -6577,8 +6577,8 @@ them	PRP
 or	CC
 any	DT
 other	JJ
-phonies	NNS
-'	:
+phonies	NN
+'	POS
 Christians	NNP
 '	POS
 ,	,
@@ -6660,7 +6660,7 @@ advantage	NN
 and	CC
 has	VBZ
 a	DT
-lot	RB
+lot	NN
 more	JJR
 to	TO
 do	VB
@@ -9027,7 +9027,7 @@ his	PRP$
 marriage	NN
 amendment	NN
 /	SYM
-anti-gay	NN
+anti-gay	FW
 (	(
 update	VB
 :	:
@@ -9047,7 +9047,7 @@ altar	NN
 ,	,
 where	WRB
 of	IN
-course	NN
+course	RB
 their	PRP$
 relationships	NNS
 should	MD
@@ -9351,7 +9351,7 @@ is	VBZ
 to	TO
 give	VB
 them	PRP
-all	RB
+all	PDT
 a	DT
 piece	NN
 of	IN
@@ -9834,7 +9834,7 @@ in	IN
 close	JJ
 contact	NN
 with	IN
-al	NNP
+al	NN
 -	HYPH
 Zawahiri	NNP
 and	CC
@@ -9856,7 +9856,7 @@ These	DT
 are	VBP
 1	CD
 )	)
-Assassinate	NN
+Assassinate	NNP
 or	CC
 overthrow	VB
 Gen.	NNP
@@ -10028,9 +10028,9 @@ border	NN
 .	.
 
 If	IN
-al	JJ
+al	NN
 -	HYPH
-Qaeda	NN
+Qaeda	NNP
 can	MD
 kill	VB
 Musharraf	NNP
@@ -11180,7 +11180,7 @@ condemned	VBD
 the	DT
 assassination	NN
 and	CC
-promised	JJ
+promised	VBD
 immediate	JJ
 revenge	NN
 against	IN
@@ -11222,8 +11222,8 @@ fight	NN
 that	WDT
 left	VBD
 one	CD
-Iraqi	NN
-dead	JJ
+Iraqi	NNP
+dead	NN
 .	.
 
 In	IN
@@ -12298,7 +12298,7 @@ likely	JJ
 to	TO
 suffer	VB
 from	IN
-Iraqi	JJ
+Iraqi	NNP
 instability	NN
 much	RB
 more	RBR
@@ -12812,7 +12812,7 @@ currents	NNS
 The	DT
 more	RBR
 radical	JJ
-Shiites	NNPS
+Shiites	NNS
 ,	,
 who	WP
 generally	RB
@@ -12948,7 +12948,7 @@ get	VB
 rich	JJ
 enough	RB
 from	IN
-Iraqi	JJ
+Iraqi	NNP
 petroleum	NN
 sales	NNS
 in	IN
@@ -13715,7 +13715,7 @@ Gore	NNP
 said	VBD
 .	.
 
-"	PRP
+"	NFP
 Further	RB
 ,	,
 I	PRP
@@ -15338,7 +15338,7 @@ a	DT
 man	NN
 's	POS
 life	NN
-while	NN
+while	IN
 under	IN
 fire	NN
 .	.
@@ -16914,7 +16914,7 @@ by	IN
 talking	VBG
 about	IN
 their	PRP$
-drinking	NN
+drinking	VBG
 the	DT
 night	NN
 before	RB
@@ -17072,8 +17072,8 @@ stories	NNS
 .	.
 
 But	CC
-that	DT
-means	NN
+that	WDT
+means	VBZ
 nothing	NN
 ,	,
 since	IN
@@ -17420,8 +17420,8 @@ Wahhabi	NNP
 school	NN
 of	IN
 Islam	NNP
-that	WDT
-predominates	VBZ
+that	IN
+predominates	NNS
 among	IN
 Saudia	NNP
 's	VBZ
@@ -17738,7 +17738,7 @@ the	DT
 Fizazi	NNP
 group	NN
 in	IN
-Tangiers	NNP
+Tangiers	NNS
 that	WDT
 morphed	VBD
 into	IN
@@ -18597,7 +18597,7 @@ Arafat	NNP
 's	POS
 passing	NN
 for	IN
-al	NNP
+al	NN
 -	HYPH
 Qaeda	NNP
 has	VBZ
@@ -20281,7 +20281,7 @@ Read	VB
 some	DT
 of	IN
 the	DT
-following	VBG
+following	JJ
 links	NNS
 and	CC
 draw	VB
@@ -20475,7 +20475,7 @@ Hirsohima	NNP
 Nagaski	NNP
 folks	NNS
 --	:
-there	RB
+there	EX
 can	MD
 be	VB
 no	DT
@@ -20685,7 +20685,7 @@ and	CC
 satellite	NN
 imaging	VBG
 company	NN
-Keyhole	NN
+Keyhole	NNP
 ,	,
 so	RB
 why	WRB
