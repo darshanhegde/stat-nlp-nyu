@@ -219,7 +219,7 @@ they	PRP
 imagine	VBP
 a	DT
 company	NN
-who's	VBD
+who's	VBZ
 eventually	RB
 history	NN
 will	MD
@@ -251,7 +251,7 @@ has	VBZ
 actually	RB
 created	VBN
 a	DT
-mathematical	NN
+mathematical	JJ
 '	POS
 proof	NN
 '	''
@@ -1219,7 +1219,7 @@ want	VBP
 extradited	VBN
 ,	,
 CIA	NNP
-operative	JJ
+operative	NN
 Michael	NNP
 Meiring	NNP
 .	.
@@ -1554,7 +1554,7 @@ old	JJ
 ,	,
 and	CC
 the	DT
-Venezuelan	NNP
+Venezuelan	JJ
 people	NNS
 will	MD
 ensure	VB
@@ -1934,7 +1934,7 @@ than	IN
 "	CD
 non-social	JJ
 contacts	NNS
-"	NNS
+"	CC
 with	IN
 the	DT
 CIA	NNP
@@ -2048,7 +2048,7 @@ work	VB
 directly	RB
 or	CC
 indirectly	RB
-"	NNS
+"	CD
 for	IN
 the	DT
 CIA	NNP
@@ -2130,7 +2130,7 @@ Implicated	NNP
 In	IN
 Church	NNP
 Child	NNP
-Sex	NNP
+Sex	NN
 Abuse	NNP
 
 PONCHATOULA	NNP
@@ -2367,9 +2367,9 @@ up	RB
 there	RB
 .	.
 
-yeah	NNP
+yeah	RB
 ,	,
-"	CD
+"	CC
 things	NNS
 "	NNS
 ...	:
@@ -2530,7 +2530,7 @@ excellent	JJ
 blog	NN
 .	.
 
-Keep	VBG
+Keep	VB
 it	PRP
 going	VBG
 .	.
@@ -2568,7 +2568,7 @@ come	VB
 back	RP
 .	.
 
-Hey	RB
+Hey	VBG
 I	PRP
 just	RB
 love	VBP
@@ -2669,7 +2669,7 @@ And	CC
 It	PRP
 's	VBZ
 Not	RB
-Hard	JJ
+Hard	RB
 To	TO
 Do	VB
 ....	PRP
@@ -2710,9 +2710,9 @@ $	$
 21,000	CD
 ......	CD
 And	CC
-......	CD
+......	WDT
 You	PRP
-HAVE	VBD
+HAVE	VBP
 To	TO
 Follow	VB
 The	DT
@@ -2797,7 +2797,7 @@ Mirror	NNP
 the	DT
 headline	NN
 ,	,
-"	PRP
+"	WDT
 Have	VBP
 200,000	CD
 AK47s	JJ
@@ -3003,8 +3003,8 @@ prospect	NN
 .	.
 "	NNP
 
-American	JJ
-defence	NN
+American	NNP
+defence	RB
 chiefs	VBZ
 hired	VBN
 a	DT
@@ -3069,7 +3069,7 @@ and	CC
 added	VBD
 they	PRP
 were	VBD
-"	PRP
+"	IN
 not	RB
 aware	JJ
 of	IN
@@ -3197,7 +3197,7 @@ It	PRP
 's	VBZ
 always	RB
 a	DT
-bang	VB
+bang	NN
 -	HYPH
 your	PRP$
 -	HYPH
@@ -3239,9 +3239,9 @@ to	TO
 talk	VB
 of	IN
 an	DT
-"	CD
+"	NNP
 administration	NN
-"	NNS
+"	WDT
 may	MD
 be	VB
 misdirection	NN
@@ -3440,7 +3440,7 @@ in	IN
 1980	CD
 .	.
 
-Investigators	NNP
+Investigators	NNS
 said	VBD
 the	DT
 nun	NN
@@ -3499,8 +3499,8 @@ if	IN
 she	PRP
 had	VBD
 been	VBN
-sexually	JJ
-assaulted	NN
+sexually	RB
+assaulted	JJ
 .	.
 
 "	CC
@@ -3800,7 +3800,7 @@ individually	RB
 .	.
 
 But	CC
-institutionally	RB
+institutionally	NN
 ?	.
 
 That	DT
@@ -3822,9 +3822,9 @@ stories	NNS
 out	IN
 there	RB
 today	NN
-jeff	VBD
-....	CD
-thank	NN
+jeff	NN
+....	IN
+thank	JJ
 god	NN
 and	CC
 a	DT
@@ -3918,9 +3918,9 @@ FBI	NNP
 's	POS
 list	NN
 of	IN
-"	CD
-Ten	CD
-Most	JJS
+"	NNP
+Ten	NNP
+Most	NNP
 Wanted	NNP
 Fugitives	NNP
 ,	,
@@ -3944,10 +3944,10 @@ in	IN
 recent	JJ
 years	NNS
 ...	:
-[	CD
-because	IN
+[	CC
+because	RB
 of	IN
-]	CD
+]	IN
 the	DT
 impact	NN
 that	IN
@@ -4031,9 +4031,9 @@ the	DT
 sect	NN
 ;	:
 when	WRB
-ex-members	VBP
+ex-members	PRP
 increasingly	RB
-reported	VBN
+reported	VBD
 child	NN
 and	CC
 sexual	JJ
@@ -4267,7 +4267,7 @@ choice	NN
 ,	,
 and	CC
 an	DT
-unwillingness	NNS
+unwillingness	NN
 to	TO
 stir	VB
 up	RP
@@ -4717,7 +4717,7 @@ beating	NN
 
 So	IN
 we	PRP
-"	PRP
+"	WDT
 lost	VBD
 "	IN
 some	DT
@@ -4838,7 +4838,7 @@ idiots	NNS
 .	.
 
 I	PRP
-suppose	VBD
+suppose	VBP
 that	IN
 it	PRP
 's	VBZ
@@ -5158,7 +5158,7 @@ Maryam	NNP
 salute	VBD
 them	PRP
 and	CC
-shout	JJ
+shout	VB
 praises	NNS
 to	IN
 them	PRP
@@ -5585,8 +5585,8 @@ Aerocom	NNP
 is	VBZ
 just	RB
 a	DT
-stub	JJ
-..	NNS
+stub	NN
+..	IN
 waiting	VBG
 for	IN
 someone	NN
@@ -5643,12 +5643,12 @@ What	WP
 about	IN
 Manson	NNP
 's	POS
-tees	NNS
+tees	VBZ
 bearing	VBG
 the	DT
 message	NN
 ,	,
-"	PRP
+"	WDT
 Kill	VBP
 your	PRP$
 parents	NNS
@@ -5659,14 +5659,14 @@ And	CC
 were	VBD
 the	DT
 Columbine	NNP
-killers	VBZ
+killers	NNS
 acting	VBG
 out	RP
 this	DT
 "	CD
 real	JJ
 morality	NN
-"	NNS
+"	IN
 when	WRB
 they	PRP
 indescriminately	VBP
@@ -5840,8 +5840,8 @@ congregation	NN
 
 The	DT
 last	JJ
-I	NN
-checked	NN
+I	PRP
+checked	VBD
 ,	,
 the	DT
 Satanists	NNPS
@@ -6451,7 +6451,7 @@ past	JJ
 several	JJ
 months	NNS
 :	:
-"	NNS
+"	CD
 To	IN
 hell	NN
 with	IN
@@ -6471,7 +6471,7 @@ statement	NN
 to	TO
 include	VB
 :	:
-"	NNS
+"	WDT
 To	IN
 hell	NN
 with	IN
@@ -6681,8 +6681,8 @@ need	VBP
 to	TO
 be	VB
 more	JJR
-'	:
-rigorous	NNS
+'	``
+rigorous	JJ
 '	''
 about	RB
 how	WRB
@@ -7089,7 +7089,7 @@ questions	NNS
 and	CC
 I	PRP
 am	VBP
-undecided	VBN
+undecided	RB
 as	RB
 to	IN
 the	DT
@@ -7260,7 +7260,7 @@ am	VBP
 therefore	RB
 I	PRP
 think	VBP
-"	NNS
+"	CD
 :)	NFP
 
 Reporting	VBG
@@ -7357,7 +7357,7 @@ men	NNS
 ,	,
 but	CC
 utterly	RB
-programmed	JJ
+programmed	VBN
 and	CC
 brain	NN
 -	HYPH
@@ -7390,7 +7390,7 @@ to	TO
 watch	VB
 .	.
 
-Has	NNP
+Has	JJ
 anyone	NN
 read	VBD
 the	DT
@@ -7504,7 +7504,7 @@ man	NN
 who	WP
 once	RB
 said	VBD
-"	NNS
+"	IN
 Bring	VBG
 it	PRP
 on	RP
@@ -7680,9 +7680,9 @@ and	CC
 13389	CD
 ,	,
 and	CC
-***	CD
+***	NNP
 Revocation	NNP
-***	NNS
+***	NNP
 of	IN
 Executive	NNP
 Order	NNP
@@ -7875,7 +7875,7 @@ synthesis	NNS
 .	.
 
 In	IN
-regards	NNS
+regards	VBZ
 to	IN
 death	NN
 metal	NN
@@ -8281,7 +8281,7 @@ adhear	VBP
 to	TO
 non-violence	VB
 ,	,
-forgiveness	NNS
+forgiveness	UH
 ,	,
 and	CC
 charity	NN
@@ -8666,8 +8666,8 @@ called	VBN
 '	''
 A	DT
 Charge	NNP
-to	IN
-Keep	NNP
+to	TO
+Keep	VB
 .	.
 '	''
 
@@ -8752,7 +8752,7 @@ Applause	NNP
 .	.
 )	)
 
-"	NNS
+"	NNP
 And	CC
 so	RB
 we	PRP
@@ -8850,8 +8850,8 @@ called	VBD
 '	''
 A	DT
 Charge	NNP
-to	IN
-Keep	NNP
+to	TO
+Keep	VB
 .	.
 '	''
 
@@ -8987,9 +8987,9 @@ called	VBN
 "	IN
 A	DT
 Charge	NNP
-to	IN
-Keep	NNP
-"	CD
+to	TO
+Keep	VB
+"	PRP
 ?	.
 
 That	DT
@@ -9106,13 +9106,13 @@ It	PRP
 symptomatic	JJ
 ,	,
 I	PRP
-suppose	VBD
+suppose	VBP
 ,	,
 of	IN
 our	PRP$
-fast	JJ
+fast	RB
 -	HYPH
-paced	NN
+paced	VBN
 ,	,
 24	CD
 hour	NN
@@ -9752,7 +9752,7 @@ into	IN
 a	DT
 full	JJ
 -	HYPH
-fledged	NN
+fledged	JJ
 operating	NN
 system	NN
 ?	.
@@ -9771,7 +9771,7 @@ What	WP
 do	VBP
 the	DT
 new	JJ
-al	NN
+al	JJ
 -	HYPH
 Qaeda	NN
 videotape	NN
@@ -9856,9 +9856,9 @@ These	DT
 are	VBP
 1	CD
 )	)
-Assassinate	NNP
+Assassinate	NN
 or	CC
-overthrow	VBD
+overthrow	VB
 Gen.	NNP
 Pervez	NNP
 Musharraf	NNP
@@ -9903,7 +9903,7 @@ to	TO
 purge	VB
 his	PRP$
 officer	NN
-corps	NNS
+corps	NN
 of	IN
 the	DT
 substantial	JJ
@@ -10006,9 +10006,9 @@ shelters	NNS
 Bin	NNP
 Laden	NNP
 and	CC
-al	NNP
+al	JJ
 -	HYPH
-Zawahiri	NNP
+Zawahiri	NN
 ,	,
 and	CC
 is	VBZ
@@ -10035,7 +10035,7 @@ can	MD
 kill	VB
 Musharraf	NNP
 or	CC
-instigate	VB
+instigate	RB
 a	DT
 military	JJ
 coup	NN
@@ -10263,7 +10263,7 @@ a	DT
 justification	NN
 for	IN
 his	PRP$
-overthrow	NN
+overthrow	VB
 .	.
 
 The	DT
@@ -10744,8 +10744,8 @@ ball	NN
 .	.
 
 Angry	NNP
-crowds	NNS
-chanted	VBD
+crowds	VBZ
+chanted	VBN
 anti-American	JJ
 slogans	NNS
 in	IN
@@ -11129,7 +11129,7 @@ local	JJ
 Iraqis	NNS
 .	.
 
-Xinhua	JJ
+Xinhua	NNP
 reports	NNS
 that	IN
 a	DT
@@ -11333,8 +11333,8 @@ message	NN
 claimed	VBD
 .	.
 
-Xinhua	NNS
-alleged	VBN
+Xinhua	NNP
+alleged	VBD
 that	IN
 "	NNS
 Many	JJ
@@ -11460,7 +11460,7 @@ Shiites	NNP
 who	WP
 were	VBD
 initially	RB
-grateful	VBN
+grateful	JJ
 for	IN
 the	DT
 removal	NN
@@ -11870,10 +11870,10 @@ logical	JJ
 fallacy	NN
 ,	,
 post	NN
-hoc	VBD
-ergo	RB
-propter	JJR
-hoc	NN
+hoc	FW
+ergo	FW
+propter	JJ
+hoc	FW
 (	(
 Z	NNP
 happens	VBZ
@@ -12041,7 +12041,7 @@ leader	NN
 of	IN
 the	DT
 militant	JJ
-Lebanese	NNP
+Lebanese	JJ
 Shiite	NNP
 group	NN
 Hezbollah	NNP
@@ -12425,7 +12425,7 @@ Although	IN
 Israel	NNP
 withdrew	VBD
 from	IN
-Lebanese	NNP
+Lebanese	JJ
 territory	NN
 in	IN
 May	NNP
@@ -12433,7 +12433,7 @@ May	NNP
 ,	,
 the	DT
 radical	JJ
-Lebanese	NNP
+Lebanese	JJ
 Shiite	NNP
 party	NN
 ,	,
@@ -12914,10 +12914,10 @@ their	PRP$
 historical	JJ
 links	NNS
 with	IN
-Lebanese	NNP
+Lebanese	JJ
 and	CC
-Iranian	NNP
-Shiites	NNP
+Iranian	JJ
+Shiites	NNS
 .	.
 
 It	PRP
@@ -12964,7 +12964,7 @@ good	JJ
 position	NN
 to	TO
 bankroll	VB
-Lebanese	NNP
+Lebanese	JJ
 Shiite	NNP
 radicals	NNS
 .	.
@@ -13034,11 +13034,11 @@ Jordan	NNP
 
 Secular	NNP
 Arab	NNP
-nationalist	NN
+nationalist	VBD
 groups	NNS
 also	RB
-universally	VBP
-sympathize	VBN
+universally	RB
+sympathize	JJ
 with	IN
 the	DT
 Palestinians	NNPS
@@ -13139,8 +13139,8 @@ the	DT
 Palestinians	NNPS
 and	CC
 for	IN
-Lebanese	NNP
-Shiites	NNP
+Lebanese	JJ
+Shiites	NNS
 .	.
 
 Israel	NNP
@@ -13449,8 +13449,8 @@ in	IN
 an	DT
 international	JJ
 affairs	NNS
-pop	VBP
-quiz	VBN
+pop	NN
+quiz	NN
 posed	VBN
 by	IN
 Andy	NNP
@@ -13777,13 +13777,13 @@ country	NN
 to	TO
 condone	VB
 the	DT
-overthrow	NN
+overthrow	VB
 of	IN
 democratically	JJ
 elected	VBN
 governments	NNS
 ,	,
-"	PRP
+"	WDT
 said	VBD
 David	NNP
 Leavy	NNP
@@ -13830,7 +13830,7 @@ to	TO
 suggest	VB
 that	IN
 the	DT
-overthrow	NN
+overthrow	VB
 of	IN
 an	DT
 elected	VBN
@@ -13965,8 +13965,8 @@ instincts	NNS
 He	PRP
 obviously	RB
 liked	VBD
-authoritarian	RB
-rule	VB
+authoritarian	JJ
+rule	NN
 better	JJR
 than	IN
 democracy	NN
@@ -14098,7 +14098,7 @@ Bush	NNP
 proclaimed	VBN
 was	VBD
 bringing	VBG
-"	CD
+"	IN
 stability	NN
 "	NNS
 to	IN
@@ -14461,10 +14461,10 @@ of	IN
 2001	CD
 .	.
 
-Wolfowitz	FW
-contradicted	FW
-counter-terrorism	FW
-czar	FW
+Wolfowitz	NNP
+contradicted	VBD
+counter-terrorism	JJ
+czar	NN
 Richard	NNP
 Clarke	NNP
 when	WRB
@@ -14537,9 +14537,9 @@ mainly	RB
 carried	VBD
 out	RP
 by	IN
-al	JJ
+al	NN
 -	HYPH
-Gamaa	NN
+Gamaa	VBN
 al	NN
 -	HYPH
 Islamiyyah	NNP
@@ -14651,7 +14651,7 @@ were	VBD
 no	DT
 good	JJ
 targets	NNS
-"	NNS
+"	CC
 in	IN
 Afghanistan	NNP
 .	.
@@ -15126,7 +15126,7 @@ the	DT
 Bush	NNP
 family	NN
 have	VBP
-cleverly	VBN
+cleverly	RB
 manufactured	VBN
 over	IN
 John	NNP
@@ -15437,9 +15437,9 @@ us	PRP
 something	NN
 about	IN
 his	PRP$
-erratic	NN
+erratic	JJ
 and	CC
-alarming	VBG
+alarming	JJ
 actions	NNS
 as	IN
 president	NN
@@ -17379,10 +17379,10 @@ the	DT
 5,000	CD
 -	HYPH
 strong	JJ
-"	NNS
-55th	JJ
+"	NNP
+55th	NNP
 Brigade	NNP
-"	CD
+"	NNP
 of	IN
 the	DT
 Taliban	NNP
@@ -17420,8 +17420,8 @@ Wahhabi	NNP
 school	NN
 of	IN
 Islam	NNP
-that	IN
-predominates	NNS
+that	WDT
+predominates	VBZ
 among	IN
 Saudia	NNP
 's	VBZ
@@ -17639,7 +17639,7 @@ Peasant	NNP
 Rebellion	NNP
 among	IN
 early	JJ
-Protestants	NNS
+Protestants	NNPS
 did	VBD
 .	.
 
@@ -17873,8 +17873,8 @@ whether	IN
 a	DT
 mass	JJ
 Sunni	NNP
-Arab	JJ
-boycott	NN
+Arab	NNP
+boycott	VBD
 of	IN
 the	DT
 elections	NNS
@@ -17934,7 +17934,7 @@ with	IN
 "	NNS
 raiding	VBG
 forces	NNS
-"	NNS
+"	IN
 in	IN
 the	DT
 assault	NN
@@ -18273,7 +18273,7 @@ and	CC
 Tuz	NNP
 .	.
 
-Hundreds	VBG
+Hundreds	NNS
 of	IN
 persons	NNS
 mounted	VBD
@@ -18509,7 +18509,7 @@ on	IN
 Wednesday	NNP
 did	VBD
 not	RB
-bode	VBN
+bode	VB
 well	RB
 for	IN
 Sunni	NNP
@@ -18560,8 +18560,8 @@ my	PRP$
 Weblog	NN
 .	.
 
-[	PRP
-Am	VBP
+[	NNP
+Am	NNP
 at	IN
 a	DT
 conference	NN
@@ -18637,7 +18637,7 @@ road	NN
 of	IN
 negotiations	NNS
 remained	VBD
-rocky	VBN
+rocky	JJ
 .	.
 
 The	DT
@@ -19020,7 +19020,7 @@ ARVN	NNP
 officers	NNS
 who	WP
 were	VBD
-secretly	VBN
+secretly	RB
 working	VBG
 for	IN
 the	DT
@@ -20247,7 +20247,7 @@ about	IN
 Chernobyl	NNP
 .	.
 
-Being	RB
+Being	VBG
 well	RB
 -	HYPH
 informed	VBN
@@ -20263,7 +20263,7 @@ in	IN
 a	DT
 world	NN
 of	IN
-conflicting	VBG
+conflicting	JJ
 reports	NNS
 .	.
 
@@ -20895,9 +20895,9 @@ Me	NNP
 and	CC
 the	DT
 big	JJ
-"	CD
+"	NNP
 G	NNP
-"	NNS
+"	NNP
 
 Following	VBG
 on	IN
@@ -21091,7 +21091,7 @@ history	NN
 of	IN
 media	NNS
 as	IN
-conceived	NN
+conceived	VBN
 by	IN
 Robin	NNP
 Sloan	NNP
@@ -21304,7 +21304,7 @@ in	IN
 Epic	NNP
 .	.
 
-Thanks	VBG
+Thanks	NNS
 for	IN
 the	DT
 link	NN
