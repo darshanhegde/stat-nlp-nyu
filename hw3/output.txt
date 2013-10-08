@@ -1632,7 +1632,7 @@ his	PRP$
 name	NN
 will	MD
 remain	VB
-unspoken	NN
+unspoken	JJ
 .	.
 
 Another	DT
@@ -3170,7 +3170,7 @@ forces	NNS
 were	VBD
 re-routed	JJ
 to	IN
-al	JJ
+al	NN
 -	HYPH
 Qaeda	NN
 .	.
@@ -3299,7 +3299,7 @@ lost	VBD
 in	IN
 Iraq	NNP
 ,	,
-planeloads	VBZ
+planeloads	NNS
 of	IN
 arms	NNS
 do	VBP
@@ -4210,7 +4210,7 @@ able	JJ
 to	TO
 bring	VB
 evil	JJ
-unto	NN
+unto	IN
 the	DT
 earth	NN
 ,	,
@@ -4532,8 +4532,8 @@ men	NNS
 often	RB
 close	VB
 relatives	NNS
-that	IN
-enfurates	NNS
+that	WDT
+enfurates	VBZ
 me	PRP
 .	.
 
@@ -9452,7 +9452,7 @@ and	CC
 building	VBG
 the	DT
 best	JJS
-nukes	NNS
+nukes	VBZ
 the	DT
 world	NN
 's	POS
@@ -11299,7 +11299,7 @@ destruction	NN
 of	IN
 the	DT
 peace	NN
-endeavors	VBZ
+endeavors	NNS
 in	IN
 the	DT
 region	NN
@@ -12044,7 +12044,7 @@ militant	JJ
 Lebanese	JJ
 Shiite	JJ
 group	NN
-Hezbollah	NN
+Hezbollah	NNP
 .	.
 
 Last	JJ
@@ -14473,9 +14473,9 @@ latter	NN
 spoke	VBD
 of	IN
 the	DT
-al	NN
+al	FW
 -	HYPH
-Qaeda	NN
+Qaeda	FW
 threat	NN
 ,	,
 insisting	VBG
@@ -18292,7 +18292,7 @@ well	RB
 ,	,
 according	VBG
 to	IN
-az	JJ
+az	NN
 -	HYPH
 Zaman	NN
 .	.
@@ -21267,7 +21267,7 @@ voice	NN
 will	MD
 be	VB
 heard	VBN
-admidst	IN
+admidst	VB
 the	DT
 higher	JJR
 echelons	NNS
